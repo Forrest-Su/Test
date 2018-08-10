@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ImageTranslucentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <!--Android 5.x开始需要把颜色设置透明，否则导航栏会呈现系统默认的浅灰色-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="ColorTranslucentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:statusBarColor">@color/blue_5fc0cd</item>
+    </style>
+
+    作者：D_clock爱吃葱花
+    链接：https://www.jianshu.com/p/0acc12c29c1b
+    來源：简书
+    简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+</resources>

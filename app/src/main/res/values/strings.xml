@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+    <string name="button_close">关闭</string>
+    <string name="button_login_1">登录</string>
+    <string name="button_login">登  录</string>
+    <string name="tv_login">登录</string>
+    <string name="tv_register">注册</string>
+    <string name="button_register_1">注册</string>
+    <string name="button_register">注  册</string>
+    <string name="button_verification">获取验证码</string>
+    <string name="button_verification_2">秒后获取</string>
+    <string name="et_phone_hint">请输入手机号</string>
+    <string name="et_password_hint">请输入密码</string>
+
+
+</resources>
